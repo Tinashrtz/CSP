@@ -1,2 +1,2 @@
 # CSP
-Csp algorithm map coloring
+Map coloring using Csp Algorithm
